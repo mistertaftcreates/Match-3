@@ -13,6 +13,7 @@ TagManager:
   - Teal Dot
   - Yellow Dot
   - Puice Dot
+  - Color
   layers:
   - Default
   - TransparentFX
